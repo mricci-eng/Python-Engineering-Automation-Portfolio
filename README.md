@@ -48,13 +48,13 @@ A desktop application developed to automate the multilingual data workflow for t
 A Python tool to automate the validation of the IXL-to-CBTC data interface, ensuring data integrity before implementation.
 
 *   **The Challenge:** Manual configuration of the data interface between the IXL (Interlocking) and CBTC (Train Control) systems was a source of errors that were time-consuming to find and correct.
-*   **My Initiative:** I developed a Python application that automates these validation checks. The tool ingests and cross-references data from multiple sources, including the master Excel ICDD and the core IXL database (`.DBF`) files. It uses an object-oriented data model and a rule-based engine to compare the expected configuration against the as-built database state, automatically flagging discrepancies.
+*   **My Initiative:** I developed a Python application that automates these validation checks. The tool ingests and cross-references data from the two main sources, CBTC `.xlsx` data and the core IXL database (`.DBF`) files. It uses an object-oriented data model and a rule-based engine to compare the expected configuration against the as-built IXL database, automatically flagging discrepancies.
 
 #### Key Features & Impact:
 *   **Reduced Configuration Errors:** The validation engine reduced data configuration errors by **over 80%**, identifying mismatches that were previously caught only by manual review.
 *   **Automated Cross-Referencing:** Replaced a time-consuming manual check process by automatically comparing data across multiple, complex engineering documents.
-*   **Designed for Full Automation:** The application was architected as a complete solution. The established data model provided the foundation for the tool's next planned feature: the automatic generation of corrected `.DBF` configuration files.
-*   **Improved Data Integrity:** Provided a reliable and repeatable method to verify the quality and consistency of the interface data before deployment.
+*   **Designed for Full Automation:** The application was architected to create a closed-loop configuration process. Its next planned feature was to use the validated data model to automatically populate the final IXL configuration databases (`.DBF` files) based upon the previously CBTC validated data. This would have replaced the high-risk manual data entry stage, ensuring that the final system configuration perfectly matched the verified engineering design.
+*   **Improved Data Integrity:** Provided a reliable and repeatable method to verify the quality and consistency of the IXL/CBTC interface data before deployment.
 
 #### Visuals:
 
