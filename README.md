@@ -45,16 +45,16 @@ A desktop application developed to automate the multilingual data workflow for t
 
 ### 2. CBTC/RBC Interface Data Validator & Generator
 
-A foundational data-processing framework designed to automate the validation and generation of the critical data interface between the IXL (Interlocking) and CBTC (Train Control) systems.
+A Python tool to automate the validation of the IXL-to-CBTC data interface, ensuring data integrity before implementation.
 
-*   **The Challenge:** Manually configuring and verifying thousands of data points between the IXL and CBTC systems was a major source of project risk, leading to potential data inconsistencies that were difficult to trace and rectify.
-*   **My Initiative:** I engineered a Python solution that embeds critical domain knowledge directly into the workflow. The application automatically reads and connects data from disparate engineering sources—the primary Excel ICDD and the core IXL database files. It then uses a built-in engine of engineering rules to systematically cross-reference every data point, identifying errors and inconsistencies that were nearly impossible to spot manually.
+*   **The Challenge:** Manual configuration of the data interface between the IXL (Interlocking) and CBTC (Train Control) systems was a source of errors that were time-consuming to find and correct.
+*   **My Initiative:** I developed a Python application that automates these validation checks. The tool ingests and cross-references data from multiple sources, including the master Excel ICDD and the core IXL database (`.DBF`) files. It uses an object-oriented data model and a rule-based engine to compare the expected configuration against the as-built database state, automatically flagging discrepancies.
 
 #### Key Features & Impact:
-*   **Drastic Error Reduction:** The validation module was fully implemented and successfully **reduced configuration errors and data discrepancies by over 80%** by automatically identifying inconsistencies that were previously found through manual checks.
-*   **Sophisticated Data Modeling:** Went beyond simple scripting to build a system of Python classes that accurately represented the complex relationships between different engineering entities.
-*   **Architected for Full Automation:** The tool was intentionally designed as a full-cycle solution. Beyond just *finding* errors, it established the complete architectural framework and data model required for the final, revolutionary step: **the one-click generation of the corrected `.DBF` files**, automating the process of writing validated data back into the IXL configuration.
-*   **Independent Verification:** Provided an essential, independent verification layer for the end-to-end data workflow, significantly increasing confidence in the final data quality.
+*   **Reduced Configuration Errors:** The validation engine reduced data configuration errors by **over 80%**, identifying mismatches that were previously caught only by manual review.
+*   **Automated Cross-Referencing:** Replaced a time-consuming manual check process by automatically comparing data across multiple, complex engineering documents.
+*   **Designed for Full Automation:** The application was architected as a complete solution. The established data model provided the foundation for the tool's next planned feature: the automatic generation of corrected `.DBF` configuration files.
+*   **Improved Data Integrity:** Provided a reliable and repeatable method to verify the quality and consistency of the interface data before deployment.
 
 #### Visuals:
 
