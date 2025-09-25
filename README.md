@@ -5,7 +5,7 @@
 
 Welcome to my portfolio. I am a Mechanical and Industrial Engineer specializing in safety-critical railway signalling systems (SIL-4 IXL).
 
-Beyond my core engineering duties, I have a proven track record of independently identifying critical process bottlenecks and developing robust Python automation tools to solve them. These tools have saved hundreds of engineering hours, reduced project risk, and improved data quality and consistency. This portfolio provides a high-level showcase of these initiatives.
+Beyond my core responsibilities, I develop Python automation tools to address process bottlenecks identified during my project work. The tools featured here have saved hundreds of engineering hours, improved data integrity, and reduced project risks. This portfolio provides an overview of these key initiatives.
 
 ---
 
@@ -13,20 +13,22 @@ Beyond my core engineering duties, I have a proven track record of independently
 
 ### 1. HMI/Alarm Multilingual Translation System
 
-A robust desktop application developed to support the complex multilingual data requirements of the Brussels Metro Modernisation project.
+A desktop application developed to automate the multilingual data workflow for the Brussels Metro Modernisation project.
 
-*   **The Challenge:** The project required the translation of over 30,000 unique, deeply nested JSON strings for the Human-Machine Interface (HMI). A manual approach presented significant risks to the project schedule and data integrity.
-*   **My Initiative:** I engineered a standalone Python application that functions as a complete, two-stage data pipeline:
-  
-    1.  **Extraction and Handling Engine:** The tool first automatically scans the source kit, recursively parsing complex JSON files to extract all text strings and their unique structural paths. It then cleans this data—removing duplicates and irrelevant entries—to produce a single, perfectly structured `.xlsx` file ready for the translation team.
-       
-    2.  **Injection Engine:** After translation, the tool takes the completed `.xlsx` file and uses the stored structural paths to precisely inject the new language data back into the software kit, rebuilding the JSON files while guaranteeing perfect data integrity.
+*   **The Challenge:** The project required translating over 30,000 text strings for the Human-Machine Interface (HMI) from nested JSON files. A manual approach was too slow and created a high risk of data corruption, jeopardizing project schedules.
+*   **My Initiative:** I developed a Python application that automates the full translation workflow in two distinct stages:
+
+    1.  **Extraction:** The tool first scans the source kit, extracts all text strings from the JSON files, and records their unique structural path. It then removes duplicates and filters irrelevant data, exporting a clean `.xlsx` file ready for the translation team.
+
+    2.  **Injection:** Once the `.xlsx` file is translated, the tool uses the stored structural paths to inject the new languages back into the correct locations, rebuilding the JSON files.
+
+    This two-stage process automates the full workflow, eliminating manual edits and ensuring the data integrity of the final software kit.
 
 #### Key Features & Impact:
-*   **Engineering Time Obliterated:** Reduced the **hands-on engineering effort** for data extraction and integration from over a month of high-risk manual work to **under 5 minutes** of automated processing.
-*   **Workflow Revolutionized:** This automation was the key enabler that compressed the entire end-to-end translation workflow, including the external translation team's turnaround, into a predictable **3-day cycle**, a timeline that was previously impossible.
-*   **Engineered for Usability:** Features a full Graphical User Interface (GUI) built with ttkbootstrap, enabling non-developer team members to execute the translation workflow safely and efficiently.
-*   **Robust & Scalable:** Architected using Object-Oriented principles and a multi-threaded design to handle long-running operations without compromising user experience, making the tool adaptable for future projects.
+*   **Reduced Engineering Time:** Cut the hands-on engineering work from over a month of manual data handling to **under 5 minutes** of automated processing.
+*   **Accelerated Project Workflow:** This automation enabled the entire translation cycle, including external team turnaround, to be completed in a predictable **3-day timeframe**.
+*   **Designed for Team Use:** Built with a full Graphical User Interface (GUI), allowing non-technical colleagues to run the data extraction and injection processes independently.
+*   **Reliable Architecture:** Developed using an Object-Oriented and multi-threaded design to process large datasets without freezing the user interface and to simplify future maintenance.
 
 #### Visuals:
 
@@ -37,7 +39,7 @@ A robust desktop application developed to support the complex multilingual data 
 ![Before and After comparison of English and translated Dutch JSON file]([INSERT_IMAGE_URL_HERE])
 
 **Core Code Logic (Recursive Engine):**
-![A Python function showing the recursive logic for processing nested JSON data]([INSERT_IMAGE_URL_HERE])
+![A Python function showing the recursive logic for processing nested JSON data]([INSERT_IMAGE_URL_HERE])```
 
 ---
 
