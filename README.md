@@ -17,7 +17,9 @@ A robust desktop application developed to support the complex multilingual data 
 
 *   **The Challenge:** The project required the translation of over 30,000 unique, deeply nested JSON strings for the Human-Machine Interface (HMI). A manual approach presented significant risks to the project schedule and data integrity.
 *   **My Initiative:** I engineered a standalone Python application that functions as a complete, two-stage data pipeline:
+  
     1.  **Extraction & Curation Engine:** The tool first automatically scans the source kit, recursively parsing complex JSON files to extract all text strings and their unique structural paths. It then cleans this data—removing duplicates and irrelevant entries—to produce a single, perfectly structured `.xlsx` file ready for the translation team.
+       
     2.  **Intelligent Injection Engine:** After translation, the tool takes the completed `.xlsx` file and uses the stored structural paths to precisely inject the new language data back into the software kit, rebuilding the JSON files while guaranteeing perfect data integrity.
 
 #### Key Features & Impact:
