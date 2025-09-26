@@ -33,7 +33,8 @@ A desktop application developed to automate the multilingual data workflow for t
 #### Visuals:
 
 **Application GUI:**
-![GUI Screenshot for the HMI Translation Tool](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true)
+![GUI Screenshot_1 for the HMI Translation Tool](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true)
+![GUI Screenshot_2 for the HMI Translation Tool](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true)
 
 **"Before & After" Data Comparison:**
 ![Before and After comparison of English and translated Dutch JSON file]([INSERT_IMAGE_URL_HERE])
