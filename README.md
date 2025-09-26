@@ -61,7 +61,7 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
 #### Visuals:
 
 **Application GUI (Control Panel):**
-![GUI Screenshot for the CBTC/RBC Data Tool]([INSERT_IMAGE_URL_HERE])
+![GUI Screenshot for the CBTC/RBC Data Tool](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_GUI.JPG?raw=true)
 
 **Architectural Flowchart:**
 ![A flowchart showing the data pipeline from Inputs to Process to Outputs]([INSERT_IMAGE_URL_HERE])
