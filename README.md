@@ -37,10 +37,11 @@ A desktop application developed to automate the multilingual data workflow for t
 ![GUI Screenshot_2 for the HMI Translation Tool](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true)
 
 **"Before & After" Data Comparison:**
-![Before and After comparison of English and translated Dutch JSON file]([INSERT_IMAGE_URL_HERE])
+![Before and After ENG to FR](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true)
+![Before and After ENG to NL](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true)
 
 **Core Code Logic (Recursive Engine):**
-![A Python function showing the recursive logic for processing nested JSON data]([INSERT_IMAGE_URL_HERE])```
+![A Python function showing the recursive logic for processing nested JSON data](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true)```
 
 ---
 
