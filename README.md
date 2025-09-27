@@ -76,10 +76,7 @@ A desktop application developed to automate the multilingual data workflow for t
 </p>
 
 **Core Code Logic (Recursive Engine):**
-![A Python function showing the recursive logic for processing nested JSON data](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true)```
-
----
-
+<img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true" alt="recursive JSON function" width="700">
 
 ---
 
