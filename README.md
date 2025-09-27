@@ -67,16 +67,13 @@ A desktop application developed to automate the multilingual data workflow for t
     <!-- This row holds the two stacked images -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="700">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="600">
         <br>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="700">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="600">
       </td>
     </tr>
   </table>
 </p>
-
-**Core Code Logic (Recursive Engine):**
-<img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true" alt="recursive JSON function" width="700">
 
 <p align="center">
   <table>
