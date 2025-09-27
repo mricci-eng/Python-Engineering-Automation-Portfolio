@@ -124,7 +124,7 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_GUI.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="500">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_GUI.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="700">
       </td>
     </tr>
   </table>
@@ -143,7 +143,7 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_Tool_Flowchart.png?raw=true" alt="Flowchart" width="500">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_Tool_Flowchart.png?raw=true" alt="Flowchart" width="300">
       </td>
     </tr>
   </table>
@@ -162,7 +162,7 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/CBTC_IXL_example_logic.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="500">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/CBTC_IXL_example_logic.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="400">
       </td>
     </tr>
   </table>
