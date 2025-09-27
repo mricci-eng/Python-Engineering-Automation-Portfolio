@@ -67,9 +67,9 @@ A desktop application developed to automate the multilingual data workflow for t
     <!-- This row holds the two stacked images -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="700">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="700">
         <br>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="700">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="700">
       </td>
     </tr>
   </table>
@@ -88,7 +88,7 @@ A desktop application developed to automate the multilingual data workflow for t
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true" alt="Nested JSON Function" width="500">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Trasl_nested_Json.png?raw=true" alt="Nested JSON Function" width="500">
       </td>
     </tr>
   </table>
@@ -124,7 +124,7 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_GUI.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="700">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Rel_GUI.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="700">
       </td>
     </tr>
   </table>
@@ -143,7 +143,7 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_Tool_Flowchart.png?raw=true" alt="Flowchart" width="300">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Rel_Tool_Flowchart.png?raw=true" alt="Flowchart" width="300">
       </td>
     </tr>
   </table>
@@ -162,7 +162,7 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/CBTC_IXL_example_logic.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="400">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/CBTC_IXL_example_logic.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="400">
       </td>
     </tr>
   </table>
@@ -198,7 +198,7 @@ A suite of data analysis utilities designed to process and enrich core IXL `.DBF
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/ext_DBFs_GUI.png?raw=true" alt="Ext DBFs GUI" width="500">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/ext_DBFs_GUI.png?raw=true" alt="Ext DBFs GUI" width="500">
       </td>
     </tr>
   </table>
@@ -217,9 +217,9 @@ A suite of data analysis utilities designed to process and enrich core IXL `.DBF
     <!-- This row holds the two stacked images -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Attr_encr.JPG?raw=true" alt="crypt DBF source" width="200">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Attr_encr.JPG?raw=true" alt="crypt DBF source" width="200">
         <br>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/extended_attr_SANITIZED.JPG?raw=true" alt="Ext DBF" width="800">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/extended_attr_SANITIZED.JPG?raw=true" alt="Ext DBF" width="800">
       </td>
     </tr>
     <!-- This is the Confidentiality Note Row -->
@@ -244,7 +244,7 @@ A suite of data analysis utilities designed to process and enrich core IXL `.DBF
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/ext_core_logic.png?raw=true" alt="Ext DBFs Core Logic" width="500">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/ext_core_logic.png?raw=true" alt="Ext DBFs Core Logic" width="500">
       </td>
     </tr>
   </table>
