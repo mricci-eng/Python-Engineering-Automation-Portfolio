@@ -64,7 +64,7 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
 ![GUI Screenshot for the CBTC/RBC Data Tool](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_GUI.JPG?raw=true)
 
 **Architectural Flowchart:**
-![A flowchart showing the data pipeline from Inputs to Process to Outputs]([INSERT_IMAGE_URL_HERE])
+![A flowchart showing the data pipeline from Inputs to Process to Outputs](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_Tool_Flowchart.png?raw=true)
 
 **Core Code Logic (Domain Expertise):**
 ![A Python function showing the logic for handling specific engineering data rules]([INSERT_IMAGE_URL_HERE])
