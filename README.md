@@ -44,12 +44,26 @@ A desktop application developed to automate the multilingual data workflow for t
 ![A Python function showing the recursive logic for processing nested JSON data](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true)```
 
 ---
+<!-- Side/By side Table (two images - Single row) -->
+
 <p align="center">
-  <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="450">
-  <br>
-  <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true" alt="GUI_2" width="450">
-  <br>
-  <b>"**Application GUI:**"</b>
+  <table>
+    <!-- This row holds the two images side-by-side -->
+    <tr align="center">
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="400">
+      </td>
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true" alt="GUI_2" width="400">
+      </td>
+    </tr>
+    <!-- This row holds the single, common caption -->
+    <tr align="center">
+      <td colspan="2">
+        <b>"**Application GUI:**"</b>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
