@@ -48,20 +48,19 @@ A desktop application developed to automate the multilingual data workflow for t
 
 <p align="center">
   <table>
-    <!-- This row holds the two images side-by-side -->
-    <tr align="center">
-    <b>"**Application GUI:**"</b>
-        <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="400">
-      </td>
-      <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true" alt="GUI_2" width="400">
-      </td>
-    </tr>
-    <!-- This row holds the single, common caption -->
+    <!-- This is the Title Row -->
     <tr align="center">
       <td colspan="2">
-        <b>"**Application GUI:**"</b>
+        <b>Application GUI</b>
+      </td>
+    </tr>
+    <!-- This is the Image Row -->
+    <tr align="center">
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="500">
+      </td>
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true" alt="GUI_2" width="500">
       </td>
     </tr>
   </table>
