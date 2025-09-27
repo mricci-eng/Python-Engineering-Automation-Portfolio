@@ -32,20 +32,8 @@ A desktop application developed to automate the multilingual data workflow for t
 
 #### Visuals:
 
-**Application GUI:**
-![GUI Screenshot_1 for the HMI Translation Tool](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true)
-![GUI Screenshot_2 for the HMI Translation Tool](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true)
-
-**"Before & After" Data Comparison:**
-![Before and After ENG to FR](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true)
-![Before and After ENG to NL](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true)
-
-**Core Code Logic (Recursive Engine):**
-![A Python function showing the recursive logic for processing nested JSON data](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true)```
-
----
 <!-- Side/By side Table (two images - Single row) -->
-
+<!-- APPLICATION GUI -->
 <p align="center">
   <table>
     <!-- This is the Title Row -->
@@ -65,6 +53,19 @@ A desktop application developed to automate the multilingual data workflow for t
     </tr>
   </table>
 </p>
+
+**"Before & After" Data Comparison:**
+![Before and After ENG to FR](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true)
+![Before and After ENG to NL](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true)
+<img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="500">
+<img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="500">
+
+
+**Core Code Logic (Recursive Engine):**
+![A Python function showing the recursive logic for processing nested JSON data](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true)```
+
+---
+
 
 ---
 
