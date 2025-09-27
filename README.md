@@ -78,6 +78,24 @@ A desktop application developed to automate the multilingual data workflow for t
 **Core Code Logic (Recursive Engine):**
 <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true" alt="recursive JSON function" width="700">
 
+<p align="center">
+  <table>
+    <!-- This is the Title Row -->
+    <tr align="center">
+      <td colspan="1">
+        <b>Core Code Logic (Recursive Nested JSON Function)</b>
+      </td>
+    </tr>
+    <!-- This is the Image Row -->
+    <tr align="center">
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true" alt="Nested JSON Function" width="600">
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 ---
 
 ### 2. CBTC/RBC Interface Data Validator & Generator
