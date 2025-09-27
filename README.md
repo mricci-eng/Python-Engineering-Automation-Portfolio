@@ -96,7 +96,7 @@ A desktop application developed to automate the multilingual data workflow for t
 
 ---
 
-### 2. CBTC/RBC Interface Data Validator & Generator
+### 2. CBTC/IXL Interface Data Validator & Generator
 
 A Python tool to automate the validation of the IXL-to-CBTC data interface, ensuring data integrity before implementation.
 
@@ -111,14 +111,62 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
 
 #### Visuals:
 
-**Application GUI (Control Panel):**
-![GUI Screenshot for the CBTC/RBC Data Tool](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_GUI.JPG?raw=true)
+<!-- Single Image table -->
+<!-- GUI -->
+<p align="center">
+  <table>
+    <!-- This is the Title Row -->
+    <tr align="center">
+      <td colspan="1">
+        <b>Application GUI (Control Panel)</b>
+      </td>
+    </tr>
+    <!-- This is the Image Row -->
+    <tr align="center">
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_GUI.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="500">
+      </td>
+    </tr>
+  </table>
+</p>
 
-**Architectural Flowchart:**
-![A flowchart showing the data pipeline from Inputs to Process to Outputs](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_Tool_Flowchart.png?raw=true)
+<!-- Single Image table -->
+<!-- LOGIC SAMPLE -->
+<p align="center">
+  <table>
+    <!-- This is the Title Row -->
+    <tr align="center">
+      <td colspan="1">
+        <b>Architectural Flowchart</b>
+      </td>
+    </tr>
+    <!-- This is the Image Row -->
+    <tr align="center">
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Rel_Tool_Flowchart.png?raw=true" alt="Flowchart" width="500">
+      </td>
+    </tr>
+  </table>
+</p>
 
-**Core Code Logic (Domain Expertise):**
-![A Python function showing the logic for handling specific engineering data rules]([INSERT_IMAGE_URL_HERE])
+<!-- Single Image table -->
+<!-- LOGIC SAMPLE -->
+<p align="center">
+  <table>
+    <!-- This is the Title Row -->
+    <tr align="center">
+      <td colspan="1">
+        <b>Core Code Logic (Domain Expertise)</b>
+      </td>
+    </tr>
+    <!-- This is the Image Row -->
+    <tr align="center">
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/CBTC_IXL_example_logic.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="500">
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
