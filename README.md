@@ -218,7 +218,7 @@ A suite of data analysis utilities designed to process and enrich core IXL `.DBF
     <!-- This row holds the two stacked images -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Attr_encr.JPG?raw=true" alt="encrypted dbf" width="300">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Attr_encr.JPG?raw=true" alt="encrypted dbf" width="150">
         <br>
         <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/extended_attr_SANITIZED.JPG?raw=true" alt="ext dbf" width="700">
       </td>
