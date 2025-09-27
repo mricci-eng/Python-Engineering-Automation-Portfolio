@@ -45,20 +45,11 @@ A desktop application developed to automate the multilingual data workflow for t
 
 ---
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true" alt="Screen_1 for the HMI Translation Tool"                      width="270"></td>
-      <td><img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true" alt="Screenshot_2 for the HMI Translation Tool"                  width="270"></td>
-      <td><img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="Before and After ENG to FR" width="270"></td>
-      <td><img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nr.png?raw=true" alt="Before and After ENG to NL" width="270"></td>
-      <td><img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true" alt="A Python function showing the                         recursive logic for processing nested JSON data" width="270"></td>
-    </tr>
-    <tr align="center">
-      <td><b>Application GUI</b></td>
-      <td><b>"Before & After" Data</b></td>
-      <td><b>Core Code Logic</b></td>
-    </tr>
-  </table>
+  <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="450">
+  <br>
+  <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true" alt="GUI_2" width="450">
+  <br>
+  <b>"**Application GUI:**"</b>
 </p>
 
 ---
