@@ -185,14 +185,65 @@ A suite of data analysis utilities designed to process and enrich core IXL `.DBF
 
 #### Visuals:
 
-**Application GUI (Analysis Dashboard):**
-![GUI Screenshot of the IXL Database Analysis Suite]([INSERT_IMAGE_URL_HERE])
+<!-- Single Image table -->
+<!-- APPLICATION GUI -->
+<p align="center">
+  <table>
+    <!-- This is the Title Row -->
+    <tr align="center">
+      <td colspan="1">
+        <b>Application GUI</b>
+      </td>
+    </tr>
+    <!-- This is the Image Row -->
+    <tr align="center">
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/ext_DBFs_GUI.png?raw=true" alt="Ext DBFs GUI" width="500">
+      </td>
+    </tr>
+  </table>
+</p>
 
-**"Before & After" Data Transformation:**
-![A side-by-side comparison of a raw DBF file and the enriched Excel report]([INSERT_IMAGE_URL_HERE])
 
-**Core Code Logic (Efficiency Engine):**
-![A Python dictionary comprehension used for high-speed data lookups]([INSERT_IMAGE_URL_HERE])
+<!-- Two rows table -->
+<!-- BEFORE AND AFTER (CRYPT / EXT) -->
+<p align="center">
+  <table>
+    <!-- This is the Title Row -->
+    <tr align="center">
+      <td>
+        <b>"Before & After" Data Comparison</b>
+      </td>
+    </tr>
+    <!-- This row holds the two stacked images -->
+    <tr align="center">
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Attr_encr.JPG?raw=true" alt="encrypted dbf" width="700">
+        <br>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/extended_attr_SANITIZED.JPG?raw=true" alt="ext dbf" width="700">
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- Single Image table -->
+<!-- CORE LOGIC -->
+<p align="center">
+  <table>
+    <!-- This is the Title Row -->
+    <tr align="center">
+      <td colspan="1">
+        <b>Core Code Logic:</b>
+      </td>
+    </tr>
+    <!-- This is the Image Row -->
+    <tr align="center">
+      <td>
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/ext_core_logic.png?raw=true" alt="Ext DBFs Core Logic" width="500">
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
