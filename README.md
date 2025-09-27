@@ -57,8 +57,16 @@ A desktop application developed to automate the multilingual data workflow for t
 **"Before & After" Data Comparison:**
 ![Before and After ENG to FR](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true)
 ![Before and After ENG to NL](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true)
-<img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="500">
-<img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="500">
+
+---
+
+<p align="center">
+  <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="600">
+  <br>
+  <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="600">
+  <br>
+  <b>"Before & After" Data Comparison:</b>
+</p>
 
 
 **Core Code Logic (Recursive Engine):**
