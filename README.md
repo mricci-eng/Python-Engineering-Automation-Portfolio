@@ -45,10 +45,10 @@ A desktop application developed to automate the multilingual data workflow for t
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="1000">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="800">
       </td>
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true" alt="GUI_2" width="1000">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_2.JPG?raw=true" alt="GUI_2" width="800">
       </td>
     </tr>
   </table>
