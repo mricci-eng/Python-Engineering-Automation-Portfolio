@@ -181,7 +181,7 @@ A suite of data analysis utilities designed to process and enrich core IXL `.DBF
 *   **Data Accessibility:** Transformed raw, cryptic database files into fully contextualized and easy-to-understand Excel reports, making the data accessible to the entire engineering team.
 *   **Massive Efficiency Gains:** Eliminated hours of manual data-gathering and cross-referencing, significantly speeding up troubleshooting, data validation, and reporting tasks.
 *   **Engineered for Performance:** Built with an efficient processing engine that uses Python dictionaries for rapid in-memory lookups, allowing it to process and enrich tens of thousands of database records in seconds.
-*   **Comprehensive Solution:** Designed as a full analysis suite with a tabbed GUI, providing specific processing modules for a wide range of database types (CONENTCO, CONATTR, TCIMSFUN, etc.).
+*   **Comprehensive Solution:** Designed as a full analysis suite with a tabbed GUI, providing specific processing modules for a wide range of DBF databases.
 
 #### Visuals:
 
@@ -204,7 +204,6 @@ A suite of data analysis utilities designed to process and enrich core IXL `.DBF
   </table>
 </p>
 
-
 <!-- Two rows table -->
 <!-- BEFORE AND AFTER (CRYPT / EXT) -->
 <p align="center">
@@ -218,9 +217,15 @@ A suite of data analysis utilities designed to process and enrich core IXL `.DBF
     <!-- This row holds the two stacked images -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Attr_encr.JPG?raw=true" alt="encrypted dbf" width="200">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Attr_encr.JPG?raw=true" alt="crypt DBF source" width="200">
         <br>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/extended_attr_SANITIZED.JPG?raw=true" alt="ext dbf" width="800">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/extended_attr_SANITIZED.JPG?raw=true" alt="Ext DBF" width="800">
+      </td>
+    </tr>
+    <!-- This is the Confidentiality Note Row -->
+    <tr align="center">
+      <td>
+        <em>Note: Data shown is representative and has been sanitized to protect client confidentiality.</em>
       </td>
     </tr>
   </table>
