@@ -67,14 +67,16 @@ A desktop application developed to automate the multilingual data workflow for t
     <!-- This row holds the two stacked images -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="600">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="700">
         <br>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="600">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="700">
       </td>
     </tr>
   </table>
 </p>
 
+<!-- Single Image table -->
+<!-- NESTED JSON RECURSIVE FUNCTION -->
 <p align="center">
   <table>
     <!-- This is the Title Row -->
@@ -86,12 +88,11 @@ A desktop application developed to automate the multilingual data workflow for t
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true" alt="Nested JSON Function" width="600">
+        <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true" alt="Nested JSON Function" width="500">
       </td>
     </tr>
   </table>
 </p>
-
 
 ---
 
