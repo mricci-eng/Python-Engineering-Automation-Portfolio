@@ -54,20 +54,15 @@ A desktop application developed to automate the multilingual data workflow for t
   </table>
 </p>
 
-**"Before & After" Data Comparison:**
-![Before and After ENG to FR](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true)
-![Before and After ENG to NL](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true)
-
----
-
+<!-- Two rows table -->
+<!-- BEFORE AND AFTER (ENG_FR / ENG_NL) -->
 <p align="center">
-  <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="800">
+  <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="700">
   <br>
-  <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="800">
+  <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="700">
   <br>
   <b>"Before & After" Data Comparison:</b>
 </p>
-
 
 **Core Code Logic (Recursive Engine):**
 ![A Python function showing the recursive logic for processing nested JSON data](https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_nested_Json.png?raw=true)```
