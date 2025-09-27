@@ -51,6 +51,7 @@ A desktop application developed to automate the multilingual data workflow for t
     <!-- This row holds the two images side-by-side -->
     <tr align="center">
       <td>
+        <b>"**Application GUI:**"</b>
         <img src="https://github.com/mricci-eng/Python-Engineering-Automation-Portfolio/blob/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="400">
       </td>
       <td>
