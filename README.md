@@ -266,10 +266,6 @@ A purpose-built utility to automate the tedious but critical process of verifyin
 *   **Professional-Grade Output:** Generates a clean, automatically formatted `.txt` report with perfectly aligned columns for easy archiving and review.
 
 #### Visuals:
-
-**Application GUI (Data Aggregator):**
-![GUI screenshot of the Software Metadata Extractor tool]([INSERT_IMAGE_URL_HERE])
-
 <!-- Side/By side Table (two images - Single row) -->
 <!-- APPLICATION GUI -->
 <p align="center">
@@ -283,10 +279,29 @@ A purpose-built utility to automate the tedious but critical process of verifyin
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="800">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/exelist_gui1.JPG?raw=true" alt="GUI_1" width="800">
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Trasl_GUI_2.JPG?raw=true" alt="GUI_2" width="800">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/exelist_gui2.JPG?raw=true" alt="GUI_2" width="800">
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- Single Image table -->
+<!-- EXELIST REPORT -->
+<p align="center">
+  <table>
+    <!-- This is the Title Row -->
+    <tr align="center">
+      <td colspan="1">
+        <b>TXT Report</b>
+      </td>
+    </tr>
+    <!-- This is the Image Row -->
+    <tr align="center">
+      <td>
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/exelist_report.JPG?raw=true" alt="exelist report" width="500">
       </td>
     </tr>
   </table>
