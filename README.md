@@ -284,9 +284,10 @@ A purpose-built utility to automate the tedious but critical process of verifyin
       <td>
         <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/exelist_gui2.JPG?raw=true" alt="GUI_2" width="800">
       </td>
+    </tr>
     <!-- This is the Confidentiality Note Row -->
     <tr align="center">
-      <td>
+      <td colspan="2">
         <em>Note: Windows System32 folder has been chosen as example path to protect client confidentiality.</em>
       </td>
     </tr>
