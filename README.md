@@ -320,7 +320,7 @@ A purpose-built utility to automate the tedious but critical process of verifyin
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/ext_core_logic.png?raw=true" alt="exelist core logic" width="500">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/exelist_corelogic.JPG?raw=true" alt="exelist core logic" width="500">
       </td>
     </tr>
   </table>
