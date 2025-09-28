@@ -54,22 +54,23 @@ A desktop application developed to automate the multilingual data workflow for t
   </table>
 </p>
 
-<!-- Two rows table -->
-<!-- BEFORE AND AFTER (ENG_FR / ENG_NL) -->
+<!-- Side/By side Table (two images - Single row) -->
+<!-- APPLICATION GUI -->
 <p align="center">
   <table>
     <!-- This is the Title Row -->
     <tr align="center">
-      <td>
-        <b>"Before & After" Data Comparison</b>
+      <td colspan="2">
+        <b>Before & After" Data Comparison</b>
       </td>
     </tr>
-    <!-- This row holds the two stacked images -->
+    <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="700">
-        <br>
-        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="700">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/json_eng_fr.png?raw=true" alt="ENG_FR" width="600">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/json_eng_nl.png?raw=true" alt="ENG_NL" width="600">
       </td>
     </tr>
   </table>
