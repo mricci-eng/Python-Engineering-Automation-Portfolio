@@ -125,7 +125,7 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Rel_GUI.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="700">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Rel_GUI.JPG?raw=true" alt="ID_TIPOENT91 ICDD Filling Sample" width="600">
       </td>
     </tr>
   </table>
