@@ -45,7 +45,7 @@ A desktop application developed to automate the multilingual data workflow for t
     <!-- This is the Image Row -->
     <tr align="center">
       <td>
-        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Trasl_GUI_1.JPG" alt="GUI_1" width="800">
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="800">
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Trasl_GUI_2.JPG?raw=true" alt="GUI_2" width="800">
@@ -270,8 +270,43 @@ A purpose-built utility to automate the tedious but critical process of verifyin
 **Application GUI (Data Aggregator):**
 ![GUI screenshot of the Software Metadata Extractor tool]([INSERT_IMAGE_URL_HERE])
 
-**"Before & After" Workflow:**
-![A comparison of the manual, one-by-one properties check vs the automated final report]([INSERT_IMAGE_URL_HERE])
+<!-- Side/By side Table (two images - Single row) -->
+<!-- APPLICATION GUI -->
+<p align="center">
+  <table>
+    <!-- This is the Title Row -->
+    <tr align="center">
+      <td colspan="2">
+        <b>Application GUI with Treeview</b>
+      </td>
+    </tr>
+    <!-- This is the Image Row -->
+    <tr align="center">
+      <td>
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Trasl_GUI_1.JPG?raw=true" alt="GUI_1" width="800">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/Trasl_GUI_2.JPG?raw=true" alt="GUI_2" width="800">
+      </td>
+    </tr>
+  </table>
+</p>
 
-**Core Code Logic (System API Interaction):**
-![A Python function showing the use of the win32api library to extract file properties]([INSERT_IMAGE_URL_HERE])
+<!-- Single Image table -->
+<!-- CORE EXELIST LOGIC MS API INTERACTION -->
+<p align="center">
+  <table>
+    <!-- This is the Title Row -->
+    <tr align="center">
+      <td colspan="1">
+        <b>Core Code Logic (System API Interaction)</b>
+      </td>
+    </tr>
+    <!-- This is the Image Row -->
+    <tr align="center">
+      <td>
+        <img src="https://raw.githubusercontent.com/mricci-eng/Python-Engineering-Automation-Portfolio/main/images/ext_core_logic.png?raw=true" alt="exelist core logic" width="500">
+      </td>
+    </tr>
+  </table>
+</p>
