@@ -274,7 +274,7 @@ A purpose-built utility to automate the tedious but critical process of verifyin
     <!-- This is the Title Row -->
     <tr align="center">
       <td colspan="2">
-        <b>Application GUI with Treeview</b>
+        <b>Application GUI</b>
       </td>
     </tr>
     <!-- This is the Image Row -->
