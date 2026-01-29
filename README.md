@@ -3,9 +3,9 @@
 
 ### Mattia Ricci | Professional Engineer (Mechanical & IXL Signalling)
 
-Welcome to my portfolio. I am a Mechanical and Industrial Engineer specializing in safety-critical railway signalling systems (SIL-4 IXL).
+Mechanical & Industrial Engineer specializing in SIL-4 IXL systems (Metro/CBTC, Mainline/ERTMS L2).
 
-Beyond my core responsibilities, I develop Python automation tools to address process bottlenecks identified during my project work. The tools featured here have saved hundreds of engineering hours, improved data integrity, and reduced project risks. This portfolio provides an overview of these key initiatives.
+This portfolio showcases custom Python automation tools I engineered to resolve critical workflow bottlenecks encountered during major international railway projects. These tools were developed to ensure data integrity, accelerate V&V activities, and automate complex brownfield integrations.
 
 ---
 
@@ -13,22 +13,20 @@ Beyond my core responsibilities, I develop Python automation tools to address pr
 
 ### 1. HMI/Alarm Multilingual Translation System
 
-A desktop application developed to automate the multilingual data workflow for the Brussels Metro Modernisation project.
+**Project:** Brussels Metro Modernisation (Brownfield)
 
-*   **The Challenge:** The project required translating over 30,000 text strings for the Human-Machine Interface (HMI) from nested JSON files. A manual approach was too slow and created a high risk of data corruption, jeopardizing project schedules.
-*   **My Initiative:** I developed a Python application that automates the full translation workflow in two distinct stages:
+Engineered and deployed a standalone Python application to automate the multilingual translation workflow for the HMI and Alarm systems.
 
-    1.  **Extraction:** The tool first scans the source kit, extracts all text strings from the JSON files, and records their unique structural path. It then removes duplicates and filters irrelevant data, exporting a clean `.xlsx` file ready for the translation team.
-
-    2.  **Injection:** Once the `.xlsx` file is translated, the tool uses the stored structural paths to inject the new languages back into the correct locations, rebuilding the JSON files.
-
-    This two-stage process automates the full workflow, eliminating manual edits and ensuring the data integrity of the final software kit.
+*   The project required the translation of approximately **30,000 text strings** nested within complex JSON files. A manual approach was unfeasible due to the volume of data and the high risk of corrupting the file structure.
+*   I developed a two-stage automation pipeline using Object-Oriented Programming (OOP) and a custom GUI:
+    1.  **Extraction:** The tool first scans the source kit, extracts all text strings from the (`.JSON`) files, and records their unique structural path. It then removes duplicates and filters irrelevant data, exporting a clean (`.xlsx`) file ready for the translation team.
+    2.  **Injection:** Once the (`.xlsx`) file is translated, the tool uses the stored structural paths to inject the new languages back into the correct locations, rebuilding the JSON files.
 
 #### Key Features & Impact:
-*   **Reduced Engineering Time:** Cut the hands-on engineering work from over a month of manual data handling to **under 5 minutes** of automated processing.
-*   **Accelerated Project Workflow:** This automation enabled the entire translation cycle, including external team turnaround, to be completed in a predictable **3-day timeframe**.
-*   **Designed for Team Use:** Built with a full Graphical User Interface (GUI), allowing non-technical colleagues to run the data extraction and injection processes independently.
-*   **Reliable Architecture:** Developed using an Object-Oriented and multi-threaded design to process large datasets without freezing the user interface and to simplify future maintenance.
+*   **Process Optimization:** Reduced the total translation processing cycle from **1 month to 3 days**.
+*   **Data Integrity:** Eliminated configuration errors caused by manual data entry, ensuring valid JSON structure in the final delivery.
+*   **Operational Usability:** Built with a user-friendly GUI (Tkinter/ttkbootstrap), allowing the tool to be operated independently by non-technical team members.
+*   **Scalability:** Implemented using multi-threading to handle large datasets efficiently without freezing the user interface.
 
 #### Visuals:
 
