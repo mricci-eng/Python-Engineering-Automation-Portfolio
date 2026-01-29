@@ -97,16 +97,16 @@ Engineered and deployed a standalone Python application to automate the multilin
 
 ### 2. CBTC/IXL Interface Data Validator & Generator
 
-A Python tool to automate the validation of the IXL-to-CBTC data interface, ensuring data integrity before implementation.
+A Python tool to ensure the integrity of the interface between the Interlocking (IXL) and Train Control (CBTC) systems before implementation.
 
-*   **The Challenge:** Manual configuration of the data interface between the IXL (Interlocking) and CBTC (Train Control) systems was a source of errors that were time-consuming to find and correct.
-*   **My Initiative:** I developed a Python application that automates these validation checks. The tool ingests and cross-references data from the two main sources, CBTC `.xlsx` data and the core IXL database (`.DBF`) files. It uses an object-oriented data model and a rule-based engine to compare the expected configuration against the as-built IXL database, automatically flagging discrepancies.
+*   The interface configuration required aligning thousands of data points between the IXL database and the CBTC design specifications. The manual verification process was time-intensive and prone to human error, leading to potential safety-critical mismatches.
+*   I architected an object-oriented Python application to automate cross-referencing. The tool creates a digital model of the interface by ingesting data from disparate sources (CBTC-(`.xlsx`) design specs and DBF IXL-(`.DBF`) files) and applying a rule-based engine to verify compliance between the design and the as-built IXL configuration.
 
 #### Key Features & Impact:
-*   **Reduced Configuration Errors:** The validation engine reduced data configuration errors by **over 80%**, identifying mismatches that were previously caught only by manual review.
-*   **Automated Cross-Referencing:** Replaced a time-consuming manual check process by automatically comparing data across multiple, complex engineering documents.
+*   **Reduced Configuration Errors:** Engineered a solution that eliminated the most common sources of configuration errors between the IXL and CBTC systems.
+*   **Data Reliability:** Significantly improved data consistency and reliability for the Brussels Metro interface compared to manual verification methods.
 *   **Designed for Full Automation:** The application was architected to create a closed-loop configuration process. Its next planned feature was to use the validated data model to automatically populate the final IXL configuration databases (`.DBF` files) based upon the previously CBTC validated data. This would have replaced the high-risk manual data entry stage, ensuring that the final system configuration perfectly matched the verified engineering design.
-*   **Improved Data Integrity:** Provided a reliable and repeatable method to verify the quality and consistency of the IXL/CBTC interface data before deployment.
+*   **Technical Implementation:** Utilized Object-Oriented Programming to map railway entities to Python classes, allowing for scalable data handling across different project version configurations.
 
 #### Visuals:
 
@@ -171,15 +171,15 @@ A Python tool to automate the validation of the IXL-to-CBTC data interface, ensu
 
 ### 3. IXL Database Analysis Tool
 
-A suite of data analysis utilities designed to process and enrich core IXL `.DBF` (database) files, transforming them from cryptic, machine-readable formats into user-friendly, human-readable reports.
+A suite of data analysis utilities designed to process and enrich core IXL `.DBF` (database) files, transforming them into user-friendly, human-readable reports.
 
-*   **The Problem:** Core engineering data, vital for analysis and troubleshooting, was stored across dozens of database tables linked only by programmatic IDs. A simple question could require an engineer to manually cross-reference multiple files, a slow, frustrating, and error-prone process that hampered efficiency.
-*   **My Initiative:** I developed a Python application that automates this entire data enrichment process. The tool ingests a primary database file, then intelligently queries multiple secondary "lookup" tables to enrich the data with clear, descriptive text. The final output is a single, comprehensive Excel report where all the information is presented in one place.
+*   Core IXL data is stored across decentralized database tables linked only by numerical IDs. Troubleshooting required manual cross-referencing between multiple files, which was inefficient and restricted data accessibility.
+*   Engineered a tool to automate the cross-referencing process. The application converts raw data into user-friendly reports by programmatically linking primary database records with secondary lookup tables, injecting human-readable descriptions into the final output.
 
 #### Key Features & Impact:
-*   **Data Accessibility:** Transformed raw, cryptic database files into fully contextualized and easy-to-understand Excel reports, making the data accessible to the entire engineering team.
-*   **Massive Efficiency Gains:** Eliminated hours of manual data-gathering and cross-referencing, significantly speeding up troubleshooting, data validation, and reporting tasks.
-*   **Engineered for Performance:** Built with an efficient processing engine that uses Python dictionaries for rapid in-memory lookups, allowing it to process and enrich tens of thousands of database records in seconds.
+*   **Accelerated Troubleshooting:** Significantly accelerated the analysis of engineering data by eliminating manual cross-referencing.
+*   **Improved Data Accessibility:** Converted cryptic raw data into readable `.xlsx` reports, making the database structure accessible to the wider engineering team.
+*   **Performance Engineering:** Utilized Python dictionary hash maps for in-memory lookups, enabling the processing of tens of thousands of records in seconds.
 *   **Comprehensive Solution:** Designed as a full analysis suite with a tabbed GUI, providing specific processing modules for a wide range of DBF databases.
 
 #### Visuals:
@@ -255,11 +255,10 @@ A suite of data analysis utilities designed to process and enrich core IXL `.DBF
 
 A purpose-built utility to automate the tedious but critical process of verifying software component metadata for official kit releases.
 
-*   **The Problem:** Each software release required an engineer to manually inspect the properties of over 500 individual `.exe` and `.dll` files to document their version and build information. This was a 6+ hour, purely manual process that was both a bottleneck and susceptible to human error.
-*   **My Initiative:** I developed a Python desktop application that completely automates this task. The tool recursively scans a target directory, interrogates each file using the Windows API to extract its core metadata, and presents the aggregated data in a clean, readable table for immediate review and export.
+*   Each software release required the manual verification of metadata for hundreds individual software components (`.exe` and `.dll`). This process was a bottleneck that consumed significant engineering hours and was prone to human error.
+*   Developed a desktop application that automates extraction. The tool interacts with the Windows API to retrieve version and build information from the target directory, aggregating the data into a structured interface for review and reporting.
 
 #### Key Features & Impact:
-*   **Massive Time Savings:** Completely eliminated **6+ hours of manual engineering work** for every software release.
 *   **Improved Accuracy & Control:** Provided a reliable, repeatable, and error-proof method for version verification, significantly enhancing release quality control.
 *   **User-Friendly Interface:** Features a clean GUI with an integrated data table (`Treeview`) that allows the user to filter by file type and review all metadata before generating a report.
 *   **Professional-Grade Output:** Generates a clean, automatically formatted `.txt` report with perfectly aligned columns for easy archiving and review.
